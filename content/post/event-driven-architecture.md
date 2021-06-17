@@ -1,9 +1,12 @@
 ---
-title: "Event-Driven Architecture"
+title: Event-Driven Architecture
+slug: update-slug
+tags:
+  - foo
+  - bar
 date: 2021-06-11T08:43:26+07:00
-tags: ["foo", "bar"]
 draft: false
-description: "Event-Driven Architecture description"
+description: Event-Driven Architecture description
 ---
 
 ![](https://cdn-images-1.medium.com/max/800/0*fQIB3IIPjJocglPW)
