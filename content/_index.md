@@ -1,2 +1,2 @@
 ### Halo, Selamat datang! 
-Situs ini berisikan kumpulan tulisan dan dokumentasi saya pribadi mengenai pengalaman dan riset di bidang `Software Engineering` terutama pada topik `Backend Engineering` dan terkadang membahas mengenai `Artificial Intelligence`. Selamat membaca!
+Situs ini berisikan kumpulan tulisan dan dokumentasi saya pribadi mengenai pengalaman dan riset di bidang `Software Engineering` terutama pada topik `Backend Engineering` dan terkadang membahas mengenai `Artificial Intelligence`. Selamat membaca 😁!

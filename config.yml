@@ -1,6 +1,6 @@
 baseurl: "https://example.com"
 languageCode: "en-us"
-title: "Hugo Tania"
+title: "Asdita Prasetya"
 theme: "hugo-tania"
 paginate: 6
 
@@ -14,9 +14,9 @@ params:
   # Enable float footnotes.
   # Default to true
   enableFootnotes: true
-  siteName: "Hugo Tania is Amazing"
-  siteDesc: "Hugo is Absurdly Fast!"
-  author: "Hugo Tania"
+  siteName: "Asdita Prasetya"
+  siteDesc: "Asdita Prasetya Official Web"
+  author: "Asdita Prasetya"
 
 
   # Limit how many categories filter show above search input.
@@ -25,19 +25,12 @@ params:
 
   # Show your socail information with icon on index bio with `_index.md` content.
   socialOptions:
-    dev-to:
-    email:
-    facebook:
-    github:
-    instagram:
-    linkedin:
-    medium:
-    stack-overflow:
-    steam:
-    telegram:
-    twitter:
-    twitch:
-    whatsapp:
+    email: asditap@gmail.com
+    medium: "https://medium.com/hellodit"
+    github: https://github.com/hellodit
+    twitter: "https://twitter.com/asditaprasetya"
+    linkedin: "https://www.linkedin.com/in/asditaprasetya/"
+
 
 menu:
   header:
