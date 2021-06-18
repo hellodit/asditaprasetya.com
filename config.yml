@@ -31,6 +31,8 @@ params:
     twitter: "https://twitter.com/asditaprasetya"
     linkedin: "https://www.linkedin.com/in/asditaprasetya/"
 
+permalinks:
+  post: :title
 
 menu:
   header:
