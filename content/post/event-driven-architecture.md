@@ -1,12 +1,14 @@
 ---
 title: Event-Driven Architecture
-slug: update-slug
 tags:
-  - foo
-  - bar
+  - Message broker
+  - Event Driven
+categories: 
+  - Microservices
+  - Software Architecture
 date: 2021-06-11T08:43:26+07:00
 draft: false
-description: Event-Driven Architecture description
+description: Suatu arsitektur perangkat lunak dan model design aplikasi yang menangkap event yang terjadi pada suatu aplikasi, nantinya event yang ter-capture akan digunakan sebagai mekanisme integrasi antar aplikasi.
 ---
 
 ![](https://cdn-images-1.medium.com/max/800/0*fQIB3IIPjJocglPW)
@@ -40,11 +42,11 @@ Suatu arsitektur perangkat lunak dan model design aplikasi yang menangkap _event
 
 Dalam event-driven architecture terdapat 3 komponen utama yang saling terhubung satu sama lain, ketiga komponen yang dimaksud yaitu:
 
-1.  _Event producer,_ mendeteksi dan memproduksi event yang berlangsung pada suatu aplikasi lalu merepresentasi-kan sebagai pesan yang akan dikirim ke _platform processes_ atau _message broker, p_roses pengiriman _event_ biasanya berlangsung secara _asynchronously_,
+1.  _Event producer,_ mendeteksi dan memproduksi event yang berlangsung pada suatu aplikasi lalu merepresentasi-kan sebagai pesan yang akan dikirim ke _platform processes_ atau _message broker_, proses pengiriman _event_ biasanya berlangsung secara _asynchronously_,
 2.  _Message broker,_ merupakan komponen pada arsitektur _event-driven_ yang bertugas sebagai _middleware_ antara _event producer_ dan _event consumer,_ tugas utamanya adalah untuk mengirim message yang dibuat oleh _event producer_ ke _event consumer._
 3.  _Event consumer,_ komponen yang menerima _message_ yang dikirim oleh _message broker_ kemudian melakukan proses sesuai dengan perintah yang ada dalam pesan yang diterima.
 
-![](https://cdn-images-1.medium.com/max/800/1*cN8MsEVTSDpeWlLfTZveGg.png)
+![consumer,producer,message-broker](https://cdn-images-1.medium.com/max/800/1*cN8MsEVTSDpeWlLfTZveGg.png)
 
 #### **Choreography Pattern**
 
