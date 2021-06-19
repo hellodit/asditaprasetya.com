@@ -32,7 +32,7 @@ params:
     linkedin: "https://www.linkedin.com/in/asditaprasetya/"
 
 permalinks:
-  post: :title
+  posts: :title
 
 menu:
   header:
