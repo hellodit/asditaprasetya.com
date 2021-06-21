@@ -3,6 +3,7 @@ languageCode: "en-us"
 title: "Asdita Prasetya"
 theme: "hugo-tania"
 paginate: 6
+googleAnalytics: "UA-85502355-1"
 
 params:
   # Emoji will show before the blog title on site navbar.
